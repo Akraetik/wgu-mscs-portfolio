@@ -2,7 +2,7 @@
 
 **Course 2 of 10** · Apr 11 – 22, 2026 · 2 performance tasks · 3 textbooks
 
-**Time:** 12 calendar days · ~43 hours on WGU work · ~5 hours of outside courses *(from my study journal)*
+**Time:** 12 calendar days · ~43 hours on WGU work · ~5 hours of outside courses 
 
 **How it went:** Most of the hours were the three textbooks. I listened to about 20 hours of the first one as audio during long drives across Washington, then reread the key chapters. Each paper was written in a single night. Paper 2 came back for one missed item, and the fix took 2 hours. 
 
@@ -109,4 +109,4 @@ All four were assigned in the course material. About 5 hours finished.
 
 ## Public rebuild (planned)
 
-I will create a walk through on a homelab and how to create one at some point. I don't think building a Little Man computer simulator in Python is useful. It is very basic stuff. It will go in `rebuilds/` when it's done.
+I will create a walk through on a home lab and how to create one at some point. I don't think building a Little Man computer simulator in Python is useful. It is very basic stuff. It will go in `rebuilds/` when it's done. If I find the time for this. Honestly not worth revisiting. The class was done to standard to move on to the next one. the important takeaway from this course was the basics of computer architecture. 
