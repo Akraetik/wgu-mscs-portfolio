@@ -11,7 +11,7 @@ If you're starting the same program, use it as a map.
 
 > **Not in this repo:** my graded papers or code, or WGU's prompts, rubrics, or provided files. See [ACADEMIC_INTEGRITY.md](ACADEMIC_INTEGRITY.md).
 
-## The 10 courses
+## The 10 courses & my final thoughts on the program
 
 | # | Course | Dates | Days | Status |
 |---|---|---|---|---|
@@ -21,13 +21,14 @@ If you're starting the same program, use it as a map.
 | 4 | [D486 Governance, Risk and Compliance](courses/04-D486-grc.md) | Apr 29 – May 7 | 9 | ✅ Posted |
 | 5 | [D796 Unix and Linux](courses/05-D796-unix-linux.md) | May 8 – 18 | 11 | ✅ Posted |
 | 6 | [D797 AI and ML Foundations](courses/06-D797-ai-ml.md) | May 19 – 29 | 11 | ✅ Posted |
-| 7 | D800 Human-Computer Interaction | May 30 – Jun 21 | 23 | Coming |
-| 8 | D799 Mobile and Ubiquitous Design | Jun 22 – Jul 1 | 10 | Coming |
+| 7 | [D800 Human-Computer Interaction](courses/07-D800-hci.md) | May 30 – Jun 21 | 23 | ✅ Posted |
+| 8 | [D799 Mobile and Ubiquitous Design](courses/08-D799-mobile-design.md) | Jun 22 – Jul 1 | 10 | ✅ Posted |
 | 9 | D780 Software Architecture and Design | Jul 2 – 21 | 20 | Coming |
 | 10 | D294 Learning Technology | Jul 22 – Aug 5 | 15 | Coming |
+| -- | Final Thoughts | - | - | Coming |
 
 Days count from the start of a course through the day I submitted its last task.
 
 ## About me
 
-Army veteran, 17 years of service. Then I ran a hospital security night shift. I hold Security+, Network+, ITIL Foundation, and AZ-900, and I'm studying for AWS Solutions Architect Associate. I'm looking for roles in cloud, security, and software.
+Army veteran, 17 years of service. Then I ran a hospital security night shift. I hold Security+, Network+, ITIL 5 Foundation, and AZ-900, and I'm studying for AWS Solutions Architect Associate. I'm looking for roles in cloud, security, and software.
